@@ -1,0 +1,2 @@
+Здравствуйте! Тут maven и jdk 17. Проверять работу можно через jar файл test.jar, которая находится
+в корневой папке проекта и еще в \out\artifacts\test_jar\. Запускать можно так: -java -jar test.jar -s -a -p sample- in1.txt in2.txt ; Сами java файлы с кодом находятся по пути \src\main\java\org\example\
